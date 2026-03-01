@@ -30,19 +30,19 @@
     "supabase": "^2.76.15",
     "zod": "^4.3.6",
     "prisma": "^7.4.2",
-    "@prisma/client": "^7.4.2"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.14",
+    "@prisma/client": "^7.4.2",
     "@types/bcryptjs": "^2.4.6",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^25.3.2",
     "@types/pg": "^8.18.0",
-    "i": "^0.3.7",
-    "npm": "^11.6.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "i": "^0.3.7",
+    "npm": "^11.6.0"
   }
 }
